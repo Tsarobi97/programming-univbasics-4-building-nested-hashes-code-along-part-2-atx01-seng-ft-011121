@@ -64,7 +64,7 @@ def add_characters
    #   - The second hash should have the :name key set to "Apothecary" 
    # Code your solution here:
 prince = {name: "Prince Escalus"}
-Apothecary = {name: "Apothecary"}]
+apothecary = {name: "Apothecary"}
 
 
 
